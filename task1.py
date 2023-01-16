@@ -1,3 +1,5 @@
+#find area of triangle using coordinates of 6 vertices
+
 class Triangle:
 
     def __init__(self, x1, y1, x2, y2, x3, y3):
