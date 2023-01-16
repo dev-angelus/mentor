@@ -1,4 +1,5 @@
 # Most repeated word in Eminem's "MockingBird" song in lyrics.txt file
+#or we can cope to text file any document with text on any language
 
 file = open("lyrics.txt", "r")
 frequent_word = ""
