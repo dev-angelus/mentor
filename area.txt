@@ -1,7 +1,5 @@
 The area of triangle is -2.0
 The area of triangle is 120.0
 The area of triangle is -2.0
-The area of triangle is 120.0
-The area of triangle is -2.0
-The area of triangle is 120.0
-The area of triangle is -2.0
+
+
