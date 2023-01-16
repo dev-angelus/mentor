@@ -1,7 +1,4 @@
 FALSE - This is not right-angled triangle
 TRUE - This is right-angled triangle
 FALSE - This is not right-angled triangle
-TRUE - This is right-angled triangle
-FALSE - This is not right-angled triangle
-TRUE - This is right-angled triangle
-FALSE - This is not right-angled triangle
+
