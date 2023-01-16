@@ -12,13 +12,11 @@ for a in range(len(time_list)):
 
     hour, minute, sec = [int(h) for h in x[a].split(":")]
 
-    # minute = [int(m) for m in x[a].split(":")]
-    # sec = [int(s) for s in x[a].split(":")]
-
     if hour > 23 or hour < 0 or minute > 59 or minute < 0 or sec > 59 or sec < 0:
         print('Wrong time-format input! Try again!')
     else:
         print(x[a])
 
 
-# '14:10:01', '03:12:08', '23:45:00', '12:34:56'
+# example!: '14:10:01', '03:12:08', '23:45:00', '12:34:56'
+#example2: '25:23:34', '45:23:34', '12:12:12'
